@@ -77,7 +77,7 @@ header h1,
 .payoff h1,
 .details .carousel,
 .social a:hover{
-	color: #184EAA;
+	color: #2C51A5;
 }
 
 .features p{
@@ -152,7 +152,7 @@ nav.navbar.fixed-to-top{
 header{
 	padding: 150px 0px 0px 0px;
 	height: 960px;
-	background: url('../img/ewerx-cymatic2.png');
+	background: url('../img/ewerx-cymatic4.png');
 	background-color: white!important;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -160,11 +160,11 @@ header{
 }
 
 header h1{
-	text-transform: uppercase;
-	font-weight: 700;
+	/*text-transform: uppercase;*/
+	font-weight: 400;
 	font-weight: 300;
 	font-size: 100px;
-	font-family: 'Roboto Condensed', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 
 }
 
