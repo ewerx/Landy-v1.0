@@ -466,13 +466,13 @@ header .carousel-indicators li {
 /*-----------------------------------------------------------------------------------*/
 
 @media (max-width:768px) {
-
+/*
 	header{
-		padding-bottom: 50px;
+		padding-bottom: 0px;
 		min-height: 1000px;
 		height: 100%;
 	}
-
+*/
 	.navbar-nav {
 		float: left;
 		text-align: left;
@@ -482,7 +482,7 @@ header .carousel-indicators li {
 }
 
 @media (max-width:992px) {
-
+/*
 .detail .carousel h1, .detail p{
 	text-align: center;
 }
@@ -493,9 +493,9 @@ header .carousel-indicators li {
 
 header, .social{
 	background-position-y: 0px;
-	background-size: 200%;
+	background-size: 240%;
 }
-
+*/
 .payoff{
 	padding-top: 50px;
 	padding-bottom: 50px;
