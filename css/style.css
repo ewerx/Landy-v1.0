@@ -151,7 +151,7 @@ nav.navbar.fixed-to-top{
 
 header{
 	padding: 150px 0px 0px 0px;
-	height: 1180px;
+	height: 960px;
 	background: url('../img/ewerx-cymatic4.png');
 	background-color: white!important;
 	background-size: cover;
@@ -176,8 +176,8 @@ header p.lead{
 header .carousel-iphone{
 	margin-right: auto;
 	margin-left: auto;
-	width: 480px;
-	height: 867px;
+	width: 320px;
+	height: 672px;
 	background: url('../img/iPhone6WatchCombo.png') no-repeat;
 	background-size: 100%;
 
